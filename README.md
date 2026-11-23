@@ -15,13 +15,13 @@ Once the database file is established, simply run the main.py python file with y
 2. View Race Information
 - This will allow you to look at specific details on specific races. This includes horses participating, track length, etc...
 3. Add Horse Observation
-This allows users to input thier own observations on a specific horse before a race starts.
+- This allows users to input thier own observations on a specific horse before a race starts.
 4. Manage Race Entries
-This allows users to manage whether a horse has been scratched off of a specific race.
+- This allows users to manage whether a horse has been scratched off of a specific race.
 5. View Reports
-This will allow users to look at a multitude of different reports of horses past races, record, etc...
+- This will allow users to look at a multitude of different reports of horses past races, record, etc...
 6. View Race Horse Observations
-This will report every horse observation made by all users for a specific race.
+- This will report every horse observation made by all users for a specific race.
 7. Exit
 ### Known Limitations
 The main limitation is that this is not split for user and admin. This means that every user of this system can change horse status and add as many horse observations as they want. 

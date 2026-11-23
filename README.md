@@ -22,7 +22,6 @@ Once the database file is established, simply run the main.py python file with y
 - This will allow users to look at a multitude of different reports of horses past races, record, etc...
 6. View Race Horse Observations
 - This will report every horse observation made by all users for a specific race.
-7. Exit
 ### Known Limitations
 The main limitation is that this is not split for user and admin. This means that every user of this system can change horse status and add as many horse observations as they want. 
 The way races are currently handeled is not user friendly. Races are looked up per user ID instead of asking for a specific name or giving a list of recent events.
